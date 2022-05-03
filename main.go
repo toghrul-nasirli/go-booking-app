@@ -1,8 +1,8 @@
 package main
 
 import (
-	"booking-app/helpers"
 	"fmt"
+	"go-booking-app/helpers"
 	"net/smtp"
 	"strconv"
 	"sync"
